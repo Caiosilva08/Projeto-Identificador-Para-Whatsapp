@@ -37,13 +37,3 @@ A proposta deste script é facilitar a organização em conversas de grupo ou in
 ## Licença
 
 Este projeto está licenciado sob a **licença MIT**. Isso significa que você pode utilizá-lo, modificá-lo e distribuí-lo livremente, desde que mencione a autoria original.
-
-## Contribuição
-
-Contribuições são bem-vindas! Caso queira sugerir melhorias, corrigir erros ou adicionar novas funcionalidades:
-
-- Faça um fork do repositório  
-- Crie uma branch com as alterações desejadas  
-- Envie um pull request para análise  
-
-Se encontrar algum problema ou tiver dúvidas, sinta-se à vontade para abrir uma **issue** no repositório.
