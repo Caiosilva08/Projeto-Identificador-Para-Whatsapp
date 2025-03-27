@@ -22,7 +22,7 @@
         const savedName = GM_getValue(USER_KEY);
 
         if (!savedName) {
-            const userName = prompt('Digite seu nome para identificação no WhatsApp:');
+            const userName = prompt('Digite seu nome para identificação no WhatsApp depidadawdawdawdawd:');
             if (userName) {
                 GM_setValue(USER_KEY, userName.trim());
                 IDENTIFICADOR = `*${userName.trim()}:* `;
