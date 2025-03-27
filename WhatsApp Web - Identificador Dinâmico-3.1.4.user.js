@@ -51,7 +51,7 @@
 
         // Verificação adicional para garantir que há conteúdo
         if (textoAtual.length > 0 && !textoAtual.startsWith(IDENTIFICADOR)) {
-            console.log("[Tampermonkey] Adiciawdadawdawdawdawdonando identificador...");
+            console.log("[Tampermonkey] Adicionando identificador...");
 
             const range = document.createRange();
             range.selectNodeContents(inputBox);
