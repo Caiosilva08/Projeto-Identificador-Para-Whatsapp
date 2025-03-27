@@ -64,7 +64,7 @@
                 const sendButton = document.querySelector('button[aria-label="Send"]') ||
                                  document.querySelector('button span[data-icon="send"]')?.closest('button');
                 sendButton?.click();
-            }, 200);
+            }, 10);
         }
     }
 
