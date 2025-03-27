@@ -1,6 +1,11 @@
 // ==UserScript==
 // @name         WhatsApp Web - Identificador Dinâmico
-// @version      3.1.4 //
+// @version      3.1.4
+// @description  Adiciona identificador personalizado com base no nome do usuário
+// @match        https://web.whatsapp.com/*
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_registerMenuCommand
 // @updateURL    https://raw.githubusercontent.com/Caiosilva08/Projeto-Identificador-Para-Whatsapp/main/WhatsApp%20Web%20-%20Identificador%20Din%C3%A2mico-3.1.4.user.js
 // @downloadURL  https://raw.githubusercontent.com/Caiosilva08/Projeto-Identificador-Para-Whatsapp/main/WhatsApp%20Web%20-%20Identificador%20Din%C3%A2mico-3.1.4.user.js
 // ==/UserScript==
