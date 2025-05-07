@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         WhatsApp Web - Identificador Dinâmico
 // @version      3.2.0
-// @description  Adiciona identificador personalizado com base no nome do usuário
 // @match        https://web.whatsapp.com/*
 // @grant        GM_getValue
 // @grant        GM_setValue
